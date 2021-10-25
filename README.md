@@ -56,6 +56,6 @@ private int age;
  
 # 六、系统运行截图
 主程序TestBanking.java的运行结果。
-![avatar](https://github.com/haaix/Java-lab1/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+![avatar](https://github.com/Jiaziyi02/lab1/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211025235200.png)
 
 ## 六、实验感想
