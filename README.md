@@ -19,7 +19,7 @@
 &emsp;&emsp;这个程序模拟了银行录入以及更改存款人信息的系统。首先建立类银行账户（Account），在里面设置属性余额（balance）。设置构造函数，能够接收输入的账户余额，设置函数getBalance获取余额，设置函数deposit用来增加余额数目，设置函数withdraw用来减少余额数目。在这其中，运用了boolean类型，进行了一下。然后建立类存款人员（Customer）,在里面设置属性Account类account，字符串类型firstName，以及字符串类型lastName,和整型age。构造函数，用来接收存款人的姓名和年龄。设置函数getFirstName、getLastName分别获取姓和名,以及getAccount获取银行账户,getAge获取年龄，还设置了一个setAccount函数用来更改账户，因为一人可以有多个账户。最后设置一个测试类TestBanking用来测试前面两个类中的方法功能。设置main函数，创建新对象，通过调用前两个类里的函数来实现获取某个人员的姓名年龄，并且能够在执行一些账户交易，增加或减少一些价格，最后显示该人物的所有账户信息。
 
 ## 四、流程图
-![avatar](https://github.com/haaix/Java-lab1/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![avatar](https://github.com/Jiaziyi02/lab1/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20211026001727.png)
 
 ## 五、关键代码
 1. Account类里面，有两个函数用来实现存钱和取钱。通过布尔类型，来判断取钱的金额是否是这个账户能负担得起的。
